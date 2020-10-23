@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a92da7f7b02904a6ed95b8b78459b61",
+    "revision": "38bef5cffe90f351b7a74b659d3fcd08",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "71b5734e93fc34c868be",
+    "revision": "684c6ca74f8ce041cd7c",
     "url": "/portfolio/static/css/main.d510e62f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.db85633f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71b5734e93fc34c868be",
-    "url": "/portfolio/static/js/main.ac33e70f.chunk.js"
+    "revision": "684c6ca74f8ce041cd7c",
+    "url": "/portfolio/static/js/main.42ab1d77.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -148,12 +148,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/img0.cd67a82e.svg"
   },
   {
-    "revision": "99025f25b337c94757c98f61e2986692",
-    "url": "/portfolio/static/media/img1.99025f25.png"
+    "revision": "525b2bd948761bdc8a0f65759e7e3580",
+    "url": "/portfolio/static/media/img1.525b2bd9.svg"
   },
   {
     "revision": "c839c32d12a30ef58f4d60ea7c6338ab",
     "url": "/portfolio/static/media/img1.c839c32d.svg"
+  },
+  {
+    "revision": "3deb29428e657d252e58c6afea8bb936",
+    "url": "/portfolio/static/media/img16.3deb2942.svg"
+  },
+  {
+    "revision": "99025f25b337c94757c98f61e2986692",
+    "url": "/portfolio/static/media/img17.99025f25.png"
   },
   {
     "revision": "034fcfe8c3dc1754a6c6a2d419e75383",
@@ -216,10 +224,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/undraw_personal_info_0okl.44b0a93f.svg"
   },
   {
-    "revision": "3deb29428e657d252e58c6afea8bb936",
-    "url": "/portfolio/static/media/undraw_personal_information_962o.3deb2942.svg"
-  },
-  {
     "revision": "6e71b650c0ce4a9347bcb19990886b06",
     "url": "/portfolio/static/media/undraw_personal_settings_kihd.6e71b650.svg"
   },
@@ -238,9 +242,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b54bf05edf9d0679337f4b1d4fbf4b55",
     "url": "/portfolio/static/media/undraw_website_setup_5hr2.b54bf05e.svg"
-  },
-  {
-    "revision": "525b2bd948761bdc8a0f65759e7e3580",
-    "url": "/portfolio/static/media/undraw_winter_designer_a2m7.525b2bd9.svg"
   }
 ]);
