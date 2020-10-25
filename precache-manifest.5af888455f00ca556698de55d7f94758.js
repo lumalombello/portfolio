@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e055238d76929b07e44eb2cac8c58102",
+    "revision": "d58e26c2c494b6d11e54c613db1abfcf",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "322e5015af706a35b8d1",
+    "revision": "e6668c3be9375ff148fe",
     "url": "/portfolio/static/css/main.d510e62f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.db85633f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "322e5015af706a35b8d1",
-    "url": "/portfolio/static/js/main.94d5cef1.chunk.js"
+    "revision": "e6668c3be9375ff148fe",
+    "url": "/portfolio/static/js/main.2c1e7e27.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -188,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/img5.a2f5e33f.svg"
   },
   {
+    "revision": "4f2e317871bfd9d87bd3b58235655639",
+    "url": "/portfolio/static/media/img7.4f2e3178.svg"
+  },
+  {
     "revision": "912eddde0933eb52d4cbefaae1b57895",
     "url": "/portfolio/static/media/luma.912eddde.jpg"
   },
@@ -210,10 +214,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aa6fa8c6f4fc3418108d3584b39c4bba",
     "url": "/portfolio/static/media/undraw_fashion_blogging_w9ol.aa6fa8c6.svg"
-  },
-  {
-    "revision": "4f2e317871bfd9d87bd3b58235655639",
-    "url": "/portfolio/static/media/undraw_interaction_design_odgc.4f2e3178.svg"
   },
   {
     "revision": "3394c6329bd4f006daf3b4cf2e6b4c1f",

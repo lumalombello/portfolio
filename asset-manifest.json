@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d510e62f.chunk.css",
-    "main.js": "/portfolio/static/js/main.94d5cef1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.94d5cef1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2c1e7e27.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2c1e7e27.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/js/2.db85633f.chunk.js": "/portfolio/static/js/2.db85633f.chunk.js",
     "static/js/2.db85633f.chunk.js.map": "/portfolio/static/js/2.db85633f.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.76ec5d13613394452fa1139e9e77a364.js": "/portfolio/precache-manifest.76ec5d13613394452fa1139e9e77a364.js",
+    "precache-manifest.5af888455f00ca556698de55d7f94758.js": "/portfolio/precache-manifest.5af888455f00ca556698de55d7f94758.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.d510e62f.chunk.css.map": "/portfolio/static/css/main.d510e62f.chunk.css.map",
     "static/js/2.db85633f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.db85633f.chunk.js.LICENSE.txt",
@@ -28,13 +28,13 @@
     "static/media/img3.svg": "/portfolio/static/media/img3.fb366b83.svg",
     "static/media/img4.svg": "/portfolio/static/media/img4.ecfe60df.svg",
     "static/media/img5.svg": "/portfolio/static/media/img5.a2f5e33f.svg",
+    "static/media/img7.svg": "/portfolio/static/media/img7.4f2e3178.svg",
     "static/media/luma.jpg": "/portfolio/static/media/luma.912eddde.jpg",
     "static/media/luma.svg": "/portfolio/static/media/luma.a8385802.svg",
     "static/media/undraw_blogging_vpvv.svg": "/portfolio/static/media/undraw_blogging_vpvv.ed8d6f84.svg",
     "static/media/undraw_creativity_wqmm.png": "/portfolio/static/media/undraw_creativity_wqmm.af24ffc5.png",
     "static/media/undraw_design_feedback_dexe.svg": "/portfolio/static/media/undraw_design_feedback_dexe.14dfd732.svg",
     "static/media/undraw_fashion_blogging_w9ol.svg": "/portfolio/static/media/undraw_fashion_blogging_w9ol.aa6fa8c6.svg",
-    "static/media/undraw_interaction_design_odgc.svg": "/portfolio/static/media/undraw_interaction_design_odgc.4f2e3178.svg",
     "static/media/undraw_organize_resume_utk5.svg": "/portfolio/static/media/undraw_organize_resume_utk5.3394c632.svg",
     "static/media/undraw_personal_info_0okl.svg": "/portfolio/static/media/undraw_personal_info_0okl.44b0a93f.svg",
     "static/media/undraw_personal_settings_kihd.svg": "/portfolio/static/media/undraw_personal_settings_kihd.6e71b650.svg",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.209c2d7e.js",
     "static/js/2.db85633f.chunk.js",
     "static/css/main.d510e62f.chunk.css",
-    "static/js/main.94d5cef1.chunk.js"
+    "static/js/main.2c1e7e27.chunk.js"
   ]
 }
